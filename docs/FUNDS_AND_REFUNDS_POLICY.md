@@ -140,6 +140,7 @@ EPOS/ERP:
 - Incorrect fee
 - Approved billing adjustment
 
+
 ## 11. COD Reconciliation
 
 The system must record:
@@ -169,6 +170,9 @@ required collection and remittance records are verified.
 ## 13. Implementation Status
 
 Status: Policy design documented.
+
 Database implementation: Not started.
+
 Payment-provider integration: Not started.
+
 Legal and payment-provider review: Required.
